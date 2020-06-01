@@ -1,0 +1,2 @@
+Development project for Javascript course, website with json file management and dynamic control of objects
+Proyecto de desarrollo para curso de Javascript, sitio web con manejo de archivo json y control dinámico de objetos
